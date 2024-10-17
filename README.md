@@ -1,4 +1,4 @@
-# Planning depth in alcohol use disorder
+# Planning depth in Alcohol Use Disorder
 Investigating differences in planning depth between healthy controls and participants with alcohol use disorder using the [Space Adventure Task](https://github.com/dimarkov/sat) and
 a value iteration model described in https://github.com/dimarkov/pybefit/tree/master/examples/plandepth.
 
